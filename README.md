@@ -1,3 +1,4 @@
 # primer_parcial
 
-## yani ##
+## nombre: yani ##
+- Direccion: 76074024 -
